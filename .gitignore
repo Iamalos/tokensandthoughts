@@ -63,3 +63,5 @@ _*/
 # Ignore data folder
 data/
 *.xlsx
+
+/.quarto/
